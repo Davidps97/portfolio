@@ -6,13 +6,15 @@ export default function Experience() {
       <h1>Experience</h1>
       <div className="experience-container">
         <div className="experience-item">
-          <h3>Full Stack Developer</h3>
-          <p>March 2024 - Present</p>
+          <h3>Full Stack Developer (Internship)</h3>
+          <p>March 2024 - July 2024</p>
           <p>Jever, Germany</p>
           <ul>
             <li>
-              Development and Maintenance of E-Commerce Application Ecosystem
-              for Restaurants:
+              <p className="experience-title-list">
+                Development and Maintenance of E-Commerce Application Ecosystem
+                for Restaurants:
+              </p>
               <ul>
                 <li>
                   Client Application: Enables customers to place online orders
@@ -33,7 +35,9 @@ export default function Experience() {
               </ul>
             </li>
             <li>
-              Chat Backend App Development and Testing:
+              <p className="experience-title-list">
+                Chat Backend App Development and Testing:
+              </p>
               <ul>
                 <li>
                   Developed and tested a chat backend application with PHP.
@@ -43,7 +47,7 @@ export default function Experience() {
               </ul>
             </li>
             <li>
-              Additional Tasks:
+              <p className="experience-title-list">Additional Tasks:</p>
               <ul>
                 <li>
                   Implemented frontend using Next.js and Tailwind CSS for

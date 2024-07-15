@@ -9,7 +9,7 @@
 
 .skills-container .glass {
   position: relative;
-  width: 180px;
+  width: 170px;
   height: 150px;
   background: linear-gradient(transparent, #fff2); 
   border: 1px solid rgba(0, 0, 0, 0.1); 
@@ -26,7 +26,7 @@
 
 .skills-container:hover .glass {
   transform: rotate(0deg);
-  margin: 0 10px;
+  margin: 0 3px;
 }
 
 .skills-container .glass::before {
